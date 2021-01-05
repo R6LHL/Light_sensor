@@ -1,5 +1,9 @@
 Light_sensor		KEYWORD1
+state				KEYWORD1
 
 getValueAsCoeff 	KEYWORD2
-getValue		KEYWORD2
-getState		KEYWORD2
+getValue			KEYWORD2
+getState			KEYWORD2
+
+sensor_is_closed	LITERAL1
+sensor_is_opened	LITERAL1

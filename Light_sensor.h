@@ -7,8 +7,8 @@ typedef unsigned char pin_num;
 
 enum state
 			{
-				smoke_is_present = true,
-				smoke_is_absent = false,
+				sensor_is_closed = true,
+				sensor_is_opened = false,
 			};
 
 template <unsigned const int T_ADC> // bit depth of ADC
