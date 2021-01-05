@@ -1,0 +1,5 @@
+Light_sensor		KEYWORD1
+
+getValueAsCoeff 	KEYWORD2
+getValue		KEYWORD2
+getState		KEYWORD2
